@@ -3,7 +3,7 @@
 ### [[Paper](https://arxiv.org/abs/2004.04727)]
 
 
-![Alt Text](https://gifs.com/gif/maso2-VAqGJO)
+<iframe src='//gifs.com/embed/maso2-VAqGJO' frameborder='0' scrolling='no' width='960px' height='784px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 <p align='center'>
 <img src='https://filebox.ece.vt.edu/~jbhuang/project/3DPhoto/3DPhoto_teaser.jpg' width='900'/>
 </p>
