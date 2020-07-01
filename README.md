@@ -3,9 +3,8 @@
 ### [[Paper](https://arxiv.org/abs/2004.04727)]
 
 
-![](https://j.gifs.com/VAqGJO.gif)
 <p align='center'>
-<img src='https://filebox.ece.vt.edu/~jbhuang/project/3DPhoto/3DPhoto_teaser.jpg' width='900'/>
+<img src='https://drive.google.com/file/d/1HuyofXWv7-e08aOp6zAoGWxOmGqxSIQd/view?usp=sharing' width='900'/>
 </p>
 
 We propose a method for converting a single RGB-D input image into a 3D photo, i.e., a multi-layer representation for novel view synthesis that contains hallucinated color and depth structures in regions occluded in the original view. We use a Layered Depth Image with explicit pixel connectivity as underlying representation, and present a learning-based inpainting model that iteratively synthesizes new local color-and-depth content into the occluded region in a spatial context-aware manner. The resulting 3D photos can be efficiently rendered with motion parallax using standard graphics engines. We validate the effectiveness of our method on a wide range of challenging everyday scenes and show fewer artifacts when compared with the state-of-the-arts.
